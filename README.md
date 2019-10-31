@@ -37,14 +37,6 @@ Here are just a few of the things that pandas does well:
 The source code is currently hosted on GitHub at:
 https://github.com/JeanFraga/lambdata_DS8_JF
 
-Binary installers for the latest released version are available at the [Python
-package index](https://pypi.org/project/pandas) and on conda.
-
-```sh
-# conda
-conda install pandas
-```
-
 ```sh
 # or PyPI
 pip install pandas
