@@ -27,7 +27,7 @@
 <tr>
   <td>License</td>
   <td>
-    <a href="https://github.com/pandas-dev/pandas/blob/master/LICENSE">
+    <a href="https://github.com/JeanFraga/lambdata_DS8_JF/blob/master/LICENSE">
     <img src="https://img.shields.io/pypi/l/pandas.svg" alt="license" />
     </a>
 </td>
