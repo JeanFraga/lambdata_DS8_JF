@@ -5,7 +5,6 @@
   <td>Latest Release</td>
   <td>
     <a href="https://test.pypi.org/project/lambdata-JeanFraga-DS8/">
-    <img src="https://img.shields.io/pypi/v/pandas.svg" alt="latest release" />
     </a>
   </td>
 </tr>
