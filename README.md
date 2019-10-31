@@ -44,16 +44,12 @@ pip install -i https://test.pypi.org/simple/ lambdata-JeanFraga-DS8
 
 ## Dependencies
 - [NumPy](https://www.numpy.org): 1.13.3 or higher
-- [python-dateutil](https://labix.org/python-dateutil): 2.5.0 or higher
-- [pytz](https://pythonhosted.org/pytz): 2015.4 or higher
-
-See the [full installation instructions](https://pandas.pydata.org/pandas-docs/stable/install.html#dependencies)
-for recommended and optional dependencies.
+- [pandas](https://pandas.pydata.org/): v0.25.2 or higher
 
 ## License
 [BSD 3](LICENSE)
 
 ## Background
-Work on ``pandas`` started at AQR (a quantitative hedge fund) in 2008 and
+Work on ``lambdata_JeanFraga_DS8`` started at Lambda as a student in 2019 and
 has been under active development since then.
 
