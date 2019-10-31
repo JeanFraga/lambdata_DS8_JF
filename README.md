@@ -38,8 +38,8 @@ The source code is currently hosted on GitHub at:
 https://github.com/JeanFraga/lambdata_DS8_JF
 
 ```sh
-# or PyPI
-pip install pandas
+# PyPI
+pip install -i https://test.pypi.org/simple/ lambdata-JeanFraga-DS8
 ```
 
 ## Dependencies
