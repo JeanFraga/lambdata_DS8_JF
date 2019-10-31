@@ -9,13 +9,6 @@
     </a>
   </td>
 </tr>
-  <td></td>
-  <td>
-    <a href="https://anaconda.org/anaconda/pandas/">
-    <img src="https://anaconda.org/conda-forge/pandas/badges/version.svg" alt="latest release" />
-    </a>
-</td>
-</tr>
 <tr>
   <td>Package Status</td>
   <td>
