@@ -9,7 +9,7 @@ import numpy as np
 
 class Dataframe_manipulators:
     """
-    In version 0.1.4 I added support for classes.
+    In version 0.1.4 added support for classes.
     At this moment Dataframe_manipulators only supports 2 methods.
     Built in a dataframe that can be called with "ONES", "ZEROS" for testing.
 
