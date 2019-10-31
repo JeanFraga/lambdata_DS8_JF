@@ -17,22 +17,6 @@
     </a>
 </td>
 </tr>
-<tr>
-  <td>Build Status</td>
-  <td>
-    <a href="https://travis-ci.org/pandas-dev/pandas">
-    <img src="https://travis-ci.org/pandas-dev/pandas.svg?branch=master" alt="travis build status" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td></td>
-  <td>
-    <a href="https://dev.azure.com/pandas-dev/pandas/_build/latest?definitionId=1&branch=master">
-      <img src="https://dev.azure.com/pandas-dev/pandas/_apis/build/status/pandas-dev.pandas?branch=master" alt="Azure Pipelines build status" />
-    </a>
-  </td>
-</tr>
 </table>
 
 
