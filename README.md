@@ -24,11 +24,12 @@
 **lambdata_JeanFraga_DS8** is a work in progress to fascilitate the use of a number of functions for data science.
 
 ## Main Features
-Here are just a few of the things that pandas does well:
+Here are just a few of the things that lambdata_JeanFraga_DS8 does well:
 
   - date: columns can be [**datetime_converter**][datetime_converter] to turn the date column into 3 different columns(year/month/day)
   - Easy print sum of [**null_values**][null_values] (represented as
     `NaN`) in a series.
+  - Easy access to a test dataframe of "ONES", and "ZEROS" 
 
    [null_values]: https://github.com/JeanFraga/lambdata_DS8_JF/blob/master/lambdata_JeanFraga_DS8/__init__.py
    [datetime_converter]: https://github.com/JeanFraga/lambdata_DS8_JF/blob/master/lambdata_JeanFraga_DS8/__init__.py
