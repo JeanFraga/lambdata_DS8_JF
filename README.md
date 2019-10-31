@@ -26,14 +26,12 @@
 ## Main Features
 Here are just a few of the things that pandas does well:
 
+  - date: columns can be [**datetime_converter**][datetime_converter] to turn the date column into 3 different columns(year/month/day)
   - Easy print sum of [**null_values**][null_values] (represented as
-    `NaN`) in floating point as well as non-floating point data
-  - Size mutability: columns can be [**inserted and
-    deleted**][insertion-deletion] from DataFrame and higher dimensional
-    objects
+    `NaN`) in a series.
 
    [null_values]: https://github.com/JeanFraga/lambdata_DS8_JF/blob/master/lambdata_JeanFraga_DS8/__init__.py
-   [insertion-deletion]: https://pandas.pydata.org/pandas-docs/stable/dsintro.html#column-selection-addition-deletion
+   [datetime_converter]: https://github.com/JeanFraga/lambdata_DS8_JF/blob/master/lambdata_JeanFraga_DS8/__init__.py
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
