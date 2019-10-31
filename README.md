@@ -10,14 +10,6 @@
   </td>
 </tr>
 <tr>
-  <td>Package Status</td>
-  <td>
-		<a href="https://test.pypi.org/project/lambdata-JeanFraga-DS8/">
-		<img src="https://img.shields.io/pypi/status/pandas.svg" alt="status" />
-		</a>
-  </td>
-</tr>
-<tr>
   <td>License</td>
   <td>
     <a href="https://github.com/JeanFraga/lambdata_DS8_JF/blob/master/LICENSE">
