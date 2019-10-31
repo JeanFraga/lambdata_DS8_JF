@@ -56,22 +56,6 @@
     </a>
   </td>
 </tr>
-<tr>
-  <td>Downloads</td>
-  <td>
-    <a href="https://pandas.pydata.org">
-    <img src="https://anaconda.org/conda-forge/pandas/badges/downloads.svg" alt="conda-forge downloads" />
-    </a>
-  </td>
-</tr>
-<tr>
-	<td>Gitter</td>
-	<td>
-		<a href="https://gitter.im/pydata/pandas">
-		<img src="https://badges.gitter.im/Join%20Chat.svg" />
-		</a>
-	</td>
-</tr>
 </table>
 
 
