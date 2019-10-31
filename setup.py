@@ -12,7 +12,7 @@ REQUIRED = [
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
-    name="lambdata-JeanFraga_DS8",
+    name="lambdata-JeanFraga-DS8",
     version = "0.1.4",
     author = "JeanFraga",
     description = "a collection of data science helper functions",
